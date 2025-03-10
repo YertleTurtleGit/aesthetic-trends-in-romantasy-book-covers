@@ -1,0 +1,1162 @@
+{
+    "345.jpg": {
+        "style": {
+            "a fantasy style book cover": 0.16011861860752105
+        },
+        "main_subject": {
+            "a moon with a person on the cover": 0.28736099004745486
+        },
+        "elements": {
+            "contains supernatural creatures": 0.5036219596862793
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.37490273714065553,
+            "mysterious atmosphere": 0.4337806940078735
+        }
+    },
+    "346.jpg": {
+        "style": {
+            "a fantasy style book cover": 0.20955941528081895
+        },
+        "main_subject": {
+            "a sky and sea on the cover": 0.16501049995422362
+        },
+        "elements": {
+            "contains natural elements": 0.24470284581184387,
+            "contains symbolic elements": 0.4428626596927643
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.15392714440822602,
+            "mysterious atmosphere": 0.36693894267082217,
+            "action-packed scene": 0.2188144102692604
+        }
+    },
+    "347.jpg": {
+        "elements": {
+            "contains supernatural creatures": 0.3938419967889786,
+            "contains symbolic elements": 0.2559606596827507
+        },
+        "mood": {
+            "romantic atmosphere": 0.245246509462595,
+            "peaceful scene": 0.4067344486713409
+        }
+    },
+    "348.jpg": {
+        "style": {
+            "a horror style book cover": 0.19255964756011962
+        },
+        "elements": {
+            "contains supernatural creatures": 0.1668189987540245,
+            "contains symbolic elements": 0.47430788278579716
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.5107556760311126,
+            "mysterious atmosphere": 0.1967071309685707
+        }
+    },
+    "349.jpg": {
+        "style": {
+            "a romantic book cover": 0.15925328135490419
+        },
+        "main_subject": {
+            "a sky and sea on the cover": 0.17583261877298353
+        },
+        "elements": {
+            "contains weapons or armor": 0.26804586797952656,
+            "contains natural elements": 0.15829761028289793,
+            "contains supernatural creatures": 0.17200292646884918
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.1988813042640686,
+            "romantic atmosphere": 0.2945129692554474,
+            "peaceful scene": 0.22676890790462495
+        }
+    },
+    "350.jpg": {
+        "style": {
+            "a fantasy style book cover": 0.15682253390550616
+        },
+        "elements": {
+            "contains supernatural creatures": 0.6267373204231262
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.15092368721961974,
+            "mysterious atmosphere": 0.20150340646505355,
+            "romantic atmosphere": 0.27498794272542004,
+            "action-packed scene": 0.30022533535957335
+        }
+    },
+    "351.jpg": {
+        "style": {
+            "a gothic style book cover": 0.222779655456543
+        },
+        "main_subject": {
+            "two woman on the cover": 0.2863790035247803
+        },
+        "elements": {
+            "contains supernatural creatures": 0.8091322898864746
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.20153117030858994,
+            "action-packed scene": 0.5315711259841919
+        }
+    },
+    "352.jpg": {
+        "style": {
+            "a fantasy style book cover": 0.36038132309913634
+        },
+        "main_subject": {
+            "a dragon with a person on the cover": 0.3244681119918823
+        },
+        "elements": {
+            "contains magical elements": 0.17225684523582457,
+            "contains supernatural creatures": 0.5858387112617494
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.3155077189207077,
+            "romantic atmosphere": 0.3598549485206604,
+            "action-packed scene": 0.18004443794488906
+        }
+    },
+    "353.jpg": {
+        "style": {
+            "a gothic style book cover": 0.22378739714622498
+        },
+        "elements": {
+            "contains supernatural creatures": 0.6490206956863404,
+            "contains symbolic elements": 0.18200895488262178
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.22359852790832518,
+            "bright and cheerful mood": 0.16785868704319,
+            "mysterious atmosphere": 0.24910655617713928,
+            "romantic atmosphere": 0.2552098274230957
+        }
+    },
+    "354.jpg": {
+        "style": {
+            "a romantic book cover": 0.252810874581337
+        },
+        "main_subject": {
+            "a lovescene between two persons on the cover": 0.3599367916584015
+        },
+        "elements": {
+            "contains weapons or armor": 0.19464837461709977,
+            "contains supernatural creatures": 0.4238037705421448
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.40741662979125975,
+            "romantic atmosphere": 0.34631257057189946,
+            "action-packed scene": 0.18873788118362425
+        }
+    },
+    "355.jpg": {
+        "style": {
+            "a gothic style book cover": 0.1855783388018608
+        },
+        "elements": {
+            "contains supernatural creatures": 0.44873666763305664
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.36184765100479127,
+            "romantic atmosphere": 0.4481190800666809
+        }
+    },
+    "356.jpg": {
+        "style": {
+            "a gothic style book cover": 0.2618078351020813
+        },
+        "elements": {
+            "contains supernatural creatures": 0.6061982214450836
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.27551045417785647,
+            "mysterious atmosphere": 0.42905387878417967
+        }
+    },
+    "357.jpg": {
+        "style": {
+            "a romantic book cover": 0.36773369908332826
+        },
+        "elements": {
+            "contains supernatural creatures": 0.7436271667480469
+        },
+        "mood": {
+            "mysterious atmosphere": 0.15640685968101026,
+            "romantic atmosphere": 0.4658221423625946,
+            "action-packed scene": 0.16791367009282113
+        }
+    },
+    "358.jpg": {
+        "style": {
+            "a gothic style book cover": 0.3097263753414154
+        },
+        "main_subject": {
+            "a moon with a person on the cover": 0.21398363411426544,
+            "a moon with stars on the cover": 0.2704899504780769
+        },
+        "elements": {
+            "contains supernatural creatures": 0.5225593507289886
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.24615427553653718,
+            "mysterious atmosphere": 0.32641401290893557,
+            "romantic atmosphere": 0.3492504894733429
+        }
+    },
+    "359.jpg": {
+        "style": {
+            "a romantic book cover": 0.240449920296669
+        },
+        "main_subject": {
+            "a flower on the cover": 0.21305347084999085
+        },
+        "elements": {
+            "contains magical elements": 0.2887015402317047,
+            "contains supernatural creatures": 0.4000902593135834
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.30407219231128696,
+            "romantic atmosphere": 0.5345251381397248
+        }
+    },
+    "360.jpg": {
+        "style": {
+            "a gothic style book cover": 0.3083960711956024
+        },
+        "main_subject": {
+            "a person with a sword on the cover": 0.45050504207611086
+        },
+        "elements": {
+            "contains supernatural creatures": 0.679898452758789
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.4721230626106262,
+            "action-packed scene": 0.43850325345993035
+        }
+    },
+    "361.jpg": {
+        "style": {
+            "a romantic book cover": 0.15945393294095994
+        },
+        "elements": {
+            "contains magical elements": 0.24344502091407777,
+            "contains supernatural creatures": 0.36833955645561217,
+            "contains symbolic elements": 0.1689648397266865
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.1763934671878815,
+            "mysterious atmosphere": 0.2119640901684761,
+            "romantic atmosphere": 0.5024674594402314
+        }
+    },
+    "362.jpg": {
+        "elements": {
+            "contains symbolic elements": 0.4600996732711792
+        },
+        "mood": {
+            "mysterious atmosphere": 0.5363386452198029
+        }
+    },
+    "363.jpg": {
+        "style": {
+            "a fairy tale style book cover": 0.152039036154747
+        },
+        "main_subject": {
+            "a moon with a person on the cover": 0.17508535683155058
+        },
+        "elements": {
+            "contains magical elements": 0.1605251684784889,
+            "contains supernatural creatures": 0.5319099426269531
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.19696345776319504,
+            "mysterious atmosphere": 0.45528491735458376,
+            "romantic atmosphere": 0.2036749005317688
+        }
+    },
+    "364.jpg": {
+        "style": {
+            "a romantic book cover": 0.18039036095142363
+        },
+        "elements": {
+            "contains magical elements": 0.26876155734062196,
+            "contains natural elements": 0.17122064530849457,
+            "contains supernatural creatures": 0.2309875190258026,
+            "contains symbolic elements": 0.15118970051407812
+        },
+        "mood": {
+            "romantic atmosphere": 0.5084487438201905,
+            "peaceful scene": 0.3204714149236679
+        }
+    },
+    "365.jpg": {
+        "style": {
+            "a fantasy style book cover": 0.27002994418144227
+        },
+        "main_subject": {
+            "a dragon with a person on the cover": 0.3788755893707275
+        },
+        "elements": {
+            "contains magical elements": 0.1981994517147541,
+            "contains weapons or armor": 0.16400634348392484,
+            "contains supernatural creatures": 0.5147524237632752
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.22632314041256907,
+            "action-packed scene": 0.6276936888694763
+        }
+    },
+    "366.jpg": {
+        "style": {
+            "a photo realistic book cover": 0.2268466994166374,
+            "a watercolor style book cover": 0.1858385290950537
+        },
+        "elements": {
+            "contains supernatural creatures": 0.5210781872272492
+        },
+        "mood": {
+            "romantic atmosphere": 0.18606437891721725,
+            "action-packed scene": 0.22484427988529204,
+            "peaceful scene": 0.26736936569213865
+        }
+    },
+    "367.jpg": {
+        "style": {
+            "a gothic style book cover": 0.35516207814216616
+        },
+        "elements": {
+            "contains supernatural creatures": 0.44581536650657655
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.5567879199981689,
+            "romantic atmosphere": 0.1553720474243164
+        }
+    },
+    "368.jpg": {
+        "style": {
+            "a fairy tale style book cover": 0.1620909422636032
+        },
+        "main_subject": {
+            "a castle on the cover": 0.6442217588424682
+        },
+        "elements": {
+            "contains weapons or armor": 0.3847622871398926,
+            "contains natural elements": 0.1543152779340744,
+            "contains symbolic elements": 0.20667125135660172
+        },
+        "mood": {
+            "romantic atmosphere": 0.3038525491952896,
+            "peaceful scene": 0.4479418933391571
+        }
+    },
+    "369.jpg": {
+        "style": {
+            "a fantasy style book cover": 0.16465429216623306,
+            "a fairy tale style book cover": 0.20520221292972565
+        },
+        "main_subject": {
+            "person with wings on the cover": 0.41071225404739375
+        },
+        "elements": {
+            "contains supernatural creatures": 0.3632372856140137,
+            "contains symbolic elements": 0.19575561583042145
+        },
+        "mood": {
+            "bright and cheerful mood": 0.15453804433345794,
+            "mysterious atmosphere": 0.22754251658916474,
+            "action-packed scene": 0.2231758564710617,
+            "peaceful scene": 0.16226530671119688
+        }
+    },
+    "370.jpg": {
+        "style": {
+            "a romantic book cover": 0.255384749174118
+        },
+        "main_subject": {
+            "a lovescene between two persons on the cover": 0.3698377311229706
+        },
+        "elements": {
+            "contains natural elements": 0.2291967749595642,
+            "contains supernatural creatures": 0.20077090561389924,
+            "contains symbolic elements": 0.35303926765918736
+        },
+        "mood": {
+            "bright and cheerful mood": 0.16307759657502174,
+            "romantic atmosphere": 0.559312391281128
+        }
+    },
+    "371.jpg": {
+        "elements": {
+            "contains weapons or armor": 0.2016469955444336,
+            "contains supernatural creatures": 0.5744492888450623
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.1871716819703579,
+            "action-packed scene": 0.5019614547491074
+        }
+    },
+    "372.jpg": {
+        "style": {
+            "an ethereal book cover": 0.22455256283283234
+        },
+        "main_subject": {
+            "person with wings on the cover": 0.2930440366268158
+        },
+        "elements": {
+            "contains supernatural creatures": 0.7410752654075623
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.26257355213165284,
+            "mysterious atmosphere": 0.4064166665077209,
+            "peaceful scene": 0.15365954041481017
+        }
+    },
+    "373.jpg": {
+        "main_subject": {
+            "a sky and sea on the cover": 0.1884385973215103
+        },
+        "elements": {
+            "contains weapons or armor": 0.1664653316140175,
+            "contains natural elements": 0.38859253823757167,
+            "contains symbolic elements": 0.16013566255569459
+        },
+        "mood": {
+            "bright and cheerful mood": 0.16872917264699935,
+            "peaceful scene": 0.5960461974143982
+        }
+    },
+    "374.jpg": {
+        "style": {
+            "a romantic book cover": 0.3486178338527679
+        },
+        "main_subject": {
+            "a wolf and a person on the cover": 0.2706942558288574
+        },
+        "elements": {
+            "contains supernatural creatures": 0.5807698130607606
+        },
+        "mood": {
+            "romantic atmosphere": 0.7209659099578858
+        }
+    },
+    "375.jpg": {
+        "main_subject": {
+            "feathers on the cover": 0.20434841215610502
+        },
+        "elements": {
+            "contains supernatural creatures": 0.6744660496711731
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.3491758942604065,
+            "mysterious atmosphere": 0.2446570098400116,
+            "peaceful scene": 0.2055524617433548
+        }
+    },
+    "376.jpg": {
+        "style": {
+            "a fairy tale style book cover": 0.16976769566535949
+        },
+        "elements": {
+            "contains symbolic elements": 0.5398768901824951,
+            "contains technological elements": 0.16041989549994468
+        },
+        "mood": {
+            "bright and cheerful mood": 0.45617375373840335,
+            "romantic atmosphere": 0.2919632524251938
+        }
+    },
+    "377.jpg": {
+        "style": {
+            "a horror style book cover": 0.22951014637947081,
+            "a gothic style book cover": 0.2400778740644455
+        },
+        "elements": {
+            "contains supernatural creatures": 0.7487633585929871
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.7655638575553894
+        }
+    },
+    "378.jpg": {
+        "style": {
+            "a horror style book cover": 0.15192620009183883,
+            "a gothic style book cover": 0.19596160352230071
+        },
+        "elements": {
+            "contains supernatural creatures": 0.43288750648498536
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.46001043915748596,
+            "mysterious atmosphere": 0.15689243376255035,
+            "romantic atmosphere": 0.2231713831424713
+        }
+    },
+    "379.jpg": {
+        "elements": {
+            "contains supernatural creatures": 0.6782109618186951
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.5179731965065002,
+            "mysterious atmosphere": 0.23609489500522615
+        }
+    },
+    "380.jpg": {
+        "style": {
+            "a romantic book cover": 0.1879407227039337
+        },
+        "main_subject": {
+            "a sky and sea on the cover": 0.15068772882223128
+        },
+        "elements": {
+            "contains magical elements": 0.23217201828956605,
+            "contains weapons or armor": 0.15302648320794104,
+            "contains natural elements": 0.30758361220359803
+        },
+        "mood": {
+            "bright and cheerful mood": 0.15142701417207718,
+            "romantic atmosphere": 0.1777577757835388,
+            "peaceful scene": 0.5539210796356201
+        }
+    },
+    "381.jpg": {
+        "main_subject": {
+            "a butterfly on the cover": 0.17538318932056426
+        },
+        "elements": {
+            "contains magical elements": 0.35508551001548766,
+            "contains natural elements": 0.2574503540992737,
+            "contains symbolic elements": 0.23504667878150942
+        },
+        "mood": {
+            "bright and cheerful mood": 0.47268920540809634,
+            "romantic atmosphere": 0.1955204963684082,
+            "peaceful scene": 0.20641142725944517
+        }
+    },
+    "382.jpg": {
+        "style": {
+            "a gothic style book cover": 0.1998081088066101
+        },
+        "main_subject": {
+            "magical lights on the cover": 0.16231948956847192
+        },
+        "elements": {
+            "contains supernatural creatures": 0.8424143195152283
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.7170072555541993,
+            "mysterious atmosphere": 0.2388917565345764
+        }
+    },
+    "3824.jpg": {
+        "main_subject": {
+            "stars on the cover": 0.21558559536933897
+        },
+        "elements": {
+            "contains magical elements": 0.35493303537368776,
+            "contains supernatural creatures": 0.19591790437698364,
+            "contains symbolic elements": 0.19572327435016632
+        },
+        "mood": {
+            "bright and cheerful mood": 0.2524382278323174,
+            "mysterious atmosphere": 0.43815878331661223
+        }
+    },
+    "3825.jpg": {
+        "style": {
+            "a fantasy style book cover": 0.1678708404302597,
+            "a gothic style book cover": 0.158804564923048
+        },
+        "main_subject": {
+            "a castle on the cover": 0.16154881566762921,
+            "a crown on the cover": 0.3426464438438416
+        },
+        "elements": {
+            "contains magical elements": 0.26461354494094846,
+            "contains supernatural creatures": 0.252786386013031
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.6563546776771545,
+            "mysterious atmosphere": 0.1911293901503086
+        }
+    },
+    "3826.jpg": {
+        "style": {
+            "a fantasy style book cover": 0.5365975260734558
+        },
+        "main_subject": {
+            "a dragon on the cover": 0.25415914058685307,
+            "a dragon with a person on the cover": 0.20358163714408872
+        },
+        "elements": {
+            "contains magical elements": 0.27048721313476565,
+            "contains supernatural creatures": 0.31440724730491637
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.2749919593334198,
+            "action-packed scene": 0.49670978784561154
+        }
+    },
+    "3827.jpg": {
+        "style": {
+            "a watercolor style book cover": 0.15035406947135924
+        },
+        "elements": {
+            "contains supernatural creatures": 0.4847428560256958
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.46002251505851743,
+            "mysterious atmosphere": 0.29625336825847626
+        }
+    },
+    "3828.jpg": {
+        "style": {
+            "a fantasy style book cover": 0.32708812952041627
+        },
+        "elements": {
+            "contains magical elements": 0.29467630982398985,
+            "contains supernatural creatures": 0.40101900696754456
+        },
+        "mood": {
+            "mysterious atmosphere": 0.49298972487449644,
+            "action-packed scene": 0.16973538398742674
+        }
+    },
+    "3829.jpg": {
+        "style": {
+            "a fantasy style book cover": 0.19622152149677274
+        },
+        "elements": {
+            "contains magical elements": 0.16633060388267043,
+            "contains supernatural creatures": 0.5904742360115052
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.27699979990720747,
+            "mysterious atmosphere": 0.46247695088386537
+        }
+    },
+    "383.jpg": {
+        "style": {
+            "a romantic book cover": 0.17112043797969817,
+            "a gothic style book cover": 0.15062300562858583
+        },
+        "main_subject": {
+            "a moon with a person on the cover": 0.22400761246681214
+        },
+        "elements": {
+            "contains supernatural creatures": 0.6650561451911927
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.43637155890464785,
+            "romantic atmosphere": 0.29483356773853303
+        }
+    },
+    "3830.jpg": {
+        "style": {
+            "a fantasy style book cover": 0.18271221220493317,
+            "an ethereal book cover": 0.15678534507751463
+        },
+        "main_subject": {
+            "person with wings on the cover": 0.1887675255537033,
+            "magical lights on the cover": 0.320844441652298
+        },
+        "elements": {
+            "contains magical elements": 0.18029029294848442,
+            "contains supernatural creatures": 0.47318254709243773
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.4199452370405197,
+            "mysterious atmosphere": 0.38970833718776704
+        }
+    },
+    "3831.jpg": {
+        "style": {
+            "a fantasy style book cover": 0.3731532216072082
+        },
+        "main_subject": {
+            "a flower on the cover": 0.17916760742664337
+        },
+        "elements": {
+            "contains magical elements": 0.43415310382843014,
+            "contains supernatural creatures": 0.16735705584287644
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.2897890165448189,
+            "mysterious atmosphere": 0.2480368748307228,
+            "romantic atmosphere": 0.18319628238677976
+        }
+    },
+    "3832.jpg": {
+        "style": {
+            "a gothic style book cover": 0.32894653677940366
+        },
+        "main_subject": {
+            "a crown on the cover": 0.20788268484175204
+        },
+        "elements": {
+            "contains supernatural creatures": 0.5925032854080201
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.301862108707428,
+            "mysterious atmosphere": 0.3706642985343933
+        }
+    },
+    "3833.jpg": {
+        "style": {
+            "a fantasy style book cover": 0.32043010368943214,
+            "a gothic style book cover": 0.15206711664795877
+        },
+        "main_subject": {
+            "magical lights on the cover": 0.21724689304828643
+        },
+        "elements": {
+            "contains supernatural creatures": 0.6339497089385986
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.5340133130550385,
+            "mysterious atmosphere": 0.2021232455968857
+        }
+    },
+    "3834.jpg": {
+        "style": {
+            "a gothic style book cover": 0.18818045109510423
+        },
+        "main_subject": {
+            "a heart on the cover": 0.23802476823329927
+        },
+        "elements": {
+            "contains supernatural creatures": 0.5105396986007691
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.4614485204219818,
+            "mysterious atmosphere": 0.2431448496878147
+        }
+    },
+    "3835.jpg": {
+        "style": {
+            "a gothic style book cover": 0.2173420399427414
+        },
+        "elements": {
+            "contains supernatural creatures": 0.813441789150238
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.3009541481733322,
+            "mysterious atmosphere": 0.4558642148971558
+        }
+    },
+    "3836.jpg": {
+        "style": {
+            "a fantasy style book cover": 0.3947708427906036
+        },
+        "main_subject": {
+            "a castle on the cover": 0.3069807648658752
+        },
+        "elements": {
+            "contains weapons or armor": 0.3812494933605194,
+            "contains symbolic elements": 0.23782670199871064
+        },
+        "mood": {
+            "action-packed scene": 0.38370609283447266,
+            "peaceful scene": 0.17646516934037207
+        }
+    },
+    "3837.jpg": {
+        "style": {
+            "a fantasy style book cover": 0.5174225568771362
+        },
+        "main_subject": {
+            "a castle on the cover": 0.27619976103305816
+        },
+        "elements": {
+            "contains magical elements": 0.33591025471687314,
+            "contains weapons or armor": 0.3003737837076187
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.31148601770401,
+            "action-packed scene": 0.3706979513168335
+        }
+    },
+    "3838.jpg": {
+        "style": {
+            "a fantasy style book cover": 0.2593695193529129
+        },
+        "main_subject": {
+            "magical lights on the cover": 0.314549058675766
+        },
+        "elements": {
+            "contains magical elements": 0.5695267498493195
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.17772101759910583,
+            "mysterious atmosphere": 0.28881242871284485,
+            "romantic atmosphere": 0.25236732959747316,
+            "action-packed scene": 0.1579066589474678
+        }
+    },
+    "3839.jpg": {
+        "style": {
+            "a fantasy style book cover": 0.16653386503458023,
+            "a gothic style book cover": 0.17126037329435348
+        },
+        "main_subject": {
+            "magical lights on the cover": 0.31164782792329787
+        },
+        "elements": {
+            "contains magical elements": 0.5001749694347382,
+            "contains supernatural creatures": 0.28422515392303466
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.3164160564541817,
+            "mysterious atmosphere": 0.4151798754930496,
+            "romantic atmosphere": 0.16942524313926696
+        }
+    },
+    "384.jpg": {
+        "elements": {
+            "contains natural elements": 0.2290079213678837,
+            "contains supernatural creatures": 0.42258826494216917
+        },
+        "mood": {
+            "romantic atmosphere": 0.21341879665851593,
+            "action-packed scene": 0.37519991397857666
+        }
+    },
+    "3840.jpg": {
+        "elements": {
+            "contains supernatural creatures": 0.5983682870864868
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.4900324046611786,
+            "mysterious atmosphere": 0.366477969288826
+        }
+    },
+    "385.jpg": {
+        "style": {
+            "a fantasy style book cover": 0.18448868468403817
+        },
+        "elements": {
+            "contains supernatural creatures": 0.5388988554477692,
+            "contains symbolic elements": 0.1783693943172693
+        },
+        "mood": {
+            "mysterious atmosphere": 0.33142462372779846,
+            "romantic atmosphere": 0.4083348512649536
+        }
+    },
+    "386.jpg": {
+        "style": {
+            "a romantic book cover": 0.3513368427753448
+        },
+        "elements": {
+            "contains weapons or armor": 0.20281424075365068,
+            "contains natural elements": 0.2923990279436111,
+            "contains symbolic elements": 0.20646372437477112
+        },
+        "mood": {
+            "bright and cheerful mood": 0.16496086567640306,
+            "romantic atmosphere": 0.47786938548088076,
+            "peaceful scene": 0.19160288274288179
+        }
+    },
+    "387.jpg": {
+        "style": {
+            "a romantic book cover": 0.2915090203285217
+        },
+        "main_subject": {
+            "magical lights on the cover": 0.5188162326812744
+        },
+        "elements": {
+            "contains magical elements": 0.19304742477834225,
+            "contains supernatural creatures": 0.4487910747528076
+        },
+        "mood": {
+            "romantic atmosphere": 0.722121512889862
+        }
+    },
+    "388.jpg": {
+        "style": {
+            "a gothic style book cover": 0.18006337136030198
+        },
+        "main_subject": {
+            "a moon with a person on the cover": 0.4409635603427887,
+            "a moon with stars on the cover": 0.194805283844471
+        },
+        "elements": {
+            "contains supernatural creatures": 0.6684407949447632
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.521685791015625,
+            "mysterious atmosphere": 0.3125438332557678
+        }
+    },
+    "389.jpg": {
+        "main_subject": {
+            "a moon with flowers on the covera fire and a person on the cover": 0.21340525597333906
+        },
+        "elements": {
+            "contains magical elements": 0.34643759727478024,
+            "contains supernatural creatures": 0.20286071598529815
+        },
+        "mood": {
+            "bright and cheerful mood": 0.18555509448051452,
+            "mysterious atmosphere": 0.28670687079429624,
+            "romantic atmosphere": 0.20843004286289213
+        }
+    },
+    "390.jpg": {
+        "style": {
+            "a gothic style book cover": 0.3311165153980255
+        },
+        "elements": {
+            "contains supernatural creatures": 0.664869201183319
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.16833546459674836,
+            "romantic atmosphere": 0.47466034889221187
+        }
+    },
+    "391.jpg": {
+        "style": {
+            "a fantasy style book cover": 0.2034759670495987,
+            "a gothic style book cover": 0.1565868988633156
+        },
+        "elements": {
+            "contains supernatural creatures": 0.6629797339439392
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.4494809150695801,
+            "action-packed scene": 0.3060653775930405
+        }
+    },
+    "392.jpg": {
+        "style": {
+            "a romantic book cover": 0.15813620686531066,
+            "a gothic style book cover": 0.15597473084926605
+        },
+        "elements": {
+            "contains supernatural creatures": 0.8298171162605286
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.651428472995758,
+            "action-packed scene": 0.1602486729621887
+        }
+    },
+    "393.jpg": {
+        "elements": {
+            "contains magical elements": 0.23404677510261535,
+            "contains supernatural creatures": 0.4012051224708557
+        },
+        "mood": {
+            "romantic atmosphere": 0.29508715867996216,
+            "action-packed scene": 0.3323486357927322
+        }
+    },
+    "394.jpg": {
+        "style": {
+            "a fantasy style book cover": 0.1879163935780525
+        },
+        "main_subject": {
+            "person with wings on the cover": 0.25578624904155733
+        },
+        "elements": {
+            "contains magical elements": 0.18749424219131472,
+            "contains weapons or armor": 0.20601017773151398,
+            "contains symbolic elements": 0.32479652762413025
+        },
+        "mood": {
+            "mysterious atmosphere": 0.36401265263557436,
+            "action-packed scene": 0.23445799052715302
+        }
+    },
+    "395.jpg": {
+        "elements": {
+            "contains supernatural creatures": 0.7249880790710449
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.28175248503685,
+            "romantic atmosphere": 0.3252514243125916,
+            "action-packed scene": 0.26263621747493743
+        }
+    },
+    "396.jpg": {
+        "main_subject": {
+            "a illustrated heart on the cover": 0.2218223512172699
+        },
+        "elements": {
+            "contains natural elements": 0.4824973464012146,
+            "contains symbolic elements": 0.2711257167160511
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.1910925954580307,
+            "romantic atmosphere": 0.30905708074569704,
+            "action-packed scene": 0.19257686659693718
+        }
+    },
+    "397.jpg": {
+        "style": {
+            "a romantic book cover": 0.26217618584632874
+        },
+        "elements": {
+            "contains weapons or armor": 0.2421148670837283,
+            "contains supernatural creatures": 0.5694362431764602
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.1688658744096756,
+            "romantic atmosphere": 0.27937846481800077,
+            "action-packed scene": 0.24498623013496398,
+            "peaceful scene": 0.24676782488822935
+        }
+    },
+    "398.jpg": {
+        "style": {
+            "a romantic book cover": 0.3891505300998688
+        },
+        "main_subject": {
+            "a lovescene between two persons on the cover": 0.26534436345100404
+        },
+        "elements": {
+            "contains supernatural creatures": 0.2900891244411469,
+            "contains symbolic elements": 0.24484038352966309
+        },
+        "mood": {
+            "romantic atmosphere": 0.49708849787712095,
+            "action-packed scene": 0.1946645200252533,
+            "peaceful scene": 0.18739768862724304
+        }
+    },
+    "399.jpg": {
+        "style": {
+            "a fantasy style book cover": 0.15181077122688294
+        },
+        "main_subject": {
+            "person with wings on the cover": 0.15389299094676973
+        },
+        "elements": {
+            "contains supernatural creatures": 0.622544527053833
+        },
+        "mood": {
+            "mysterious atmosphere": 0.26074865460395813,
+            "romantic atmosphere": 0.38703774809837344
+        }
+    },
+    "400.jpg": {
+        "style": {
+            "a romantic book cover": 0.3037171602249146
+        },
+        "main_subject": {
+            "a lovescene between two persons on the cover": 0.31152330040931697
+        },
+        "elements": {
+            "contains supernatural creatures": 0.4287867069244385,
+            "contains symbolic elements": 0.2062835291028023
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.19125845730304716,
+            "romantic atmosphere": 0.7191879749298096
+        }
+    },
+    "905.jpg": {
+        "style": {
+            "a fantasy style book cover": 0.204745289683342
+        },
+        "main_subject": {
+            "a moon with stars on the cover": 0.1600651431828737
+        },
+        "elements": {
+            "contains magical elements": 0.5574022054672241,
+            "contains symbolic elements": 0.1693619504570961
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.19442224055528642,
+            "mysterious atmosphere": 0.4590195536613464
+        }
+    },
+    "906.jpg": {
+        "elements": {
+            "contains supernatural creatures": 0.15563134253025054,
+            "contains symbolic elements": 0.47027077674865725
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.37495768666267393,
+            "mysterious atmosphere": 0.329909211397171
+        }
+    },
+    "907.jpg": {
+        "style": {
+            "a sci-fi style book cover": 0.3195055603981018
+        },
+        "main_subject": {
+            "a building or architecture on the cover": 0.1568995624780655
+        },
+        "elements": {
+            "contains weapons or armor": 0.16772449612617493,
+            "contains supernatural creatures": 0.23982727527618408,
+            "contains symbolic elements": 0.1905471920967102,
+            "contains technological elements": 0.24090288877487182
+        },
+        "mood": {
+            "mysterious atmosphere": 0.18088330626487734,
+            "action-packed scene": 0.5379808068275451
+        }
+    },
+    "908.jpg": {
+        "style": {
+            "a romantic book cover": 0.15278086960315707
+        },
+        "elements": {
+            "contains supernatural creatures": 0.4536354422569275,
+            "contains symbolic elements": 0.17142339497804643
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.20611578449606896,
+            "romantic atmosphere": 0.44026576876640316
+        }
+    },
+    "909.jpg": {
+        "style": {
+            "a gothic style book cover": 0.3404001265764236
+        },
+        "main_subject": {
+            "a castle on the cover": 0.18164135068655013,
+            "a crown on the cover": 0.20254023373126984
+        },
+        "elements": {
+            "contains magical elements": 0.2769498825073242,
+            "contains weapons or armor": 0.16600219458341597,
+            "contains supernatural creatures": 0.3956459879875183
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.4301706224679947,
+            "mysterious atmosphere": 0.40975897461175914
+        }
+    },
+    "910.jpg": {
+        "elements": {
+            "contains magical elements": 0.43785192966461184,
+            "contains supernatural creatures": 0.17606677561998368,
+            "contains symbolic elements": 0.19226481616497038
+        },
+        "mood": {
+            "mysterious atmosphere": 0.15805991291999816,
+            "action-packed scene": 0.18323645666241645,
+            "peaceful scene": 0.34248092770576477
+        }
+    },
+    "911.jpg": {
+        "style": {
+            "a fantasy style book cover": 0.20756645798683165
+        },
+        "main_subject": {
+            "a wolf and a person on the cover": 0.39791918992996217
+        },
+        "elements": {
+            "contains supernatural creatures": 0.6454665064811707
+        },
+        "mood": {
+            "dark and moody atmosphere": 0.28651655912399293,
+            "mysterious atmosphere": 0.3628771066665649,
+            "action-packed scene": 0.15236783325672149
+        }
+    }
+}

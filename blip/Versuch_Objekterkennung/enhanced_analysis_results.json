@@ -1,0 +1,795 @@
+{
+    "345.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a woman ' s face with a full moon in the background",
+            "the main object on the image is a woman ' s face and a full moon in the background"
+        ],
+        "categories": {
+            "style": {
+                "a fantasy style book cover": 0.8233463764190674
+            },
+            "main_subject": {
+                "a moon with birds on the cover": 0.24882061779499054,
+                "a moon with a bird and a person on the cover": 0.6636722683906555
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.9388566613197327
+            }
+        }
+    },
+    "346.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a whale swimming in the ocean",
+            "the main object on the image is a whale ' s tail sticking out of the water"
+        ],
+        "categories": {
+            "style": {
+                "a fantasy style book cover": 0.6224988102912903
+            },
+            "main_subject": {
+                "a sky and sea on the cover": 0.8213696479797363
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.8171093463897705
+            }
+        }
+    },
+    "347.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a woman ' s face with the words requiem written on it",
+            "the main object on the image is a picture of a woman ' s face"
+        ],
+        "categories": {
+            "style": {
+                "a photo realistic book cover": 0.6330121159553528,
+                "a romantic book cover": 0.16258397698402405
+            },
+            "main_subject": {
+                "a person on the cover": 0.2718786597251892,
+                "text as main element on the cover": 0.24263393878936768
+            },
+            "specific_elements": {
+                "contains romantic elements like hearts or roses": 0.6553567051887512,
+                "contains fantasy architecture like castles": 0.20734988152980804
+            }
+        }
+    },
+    "348.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a red and black pattern with a black circle in the middle",
+            "the main object on the image is a red and black pattern"
+        ],
+        "categories": {
+            "style": {
+                "a photo realistic book cover": 0.21823516488075256,
+                "a minimalist book cover": 0.37430986762046814,
+                "a romantic book cover": 0.25871914625167847
+            },
+            "main_subject": {
+                "a pattern on the cover": 0.16645868122577667,
+                "text as main element on the cover": 0.1980757713317871
+            },
+            "specific_elements": {
+                "contains romantic elements like hearts or roses": 0.6335391402244568,
+                "contains fantasy architecture like castles": 0.1706504225730896
+            }
+        }
+    },
+    "350.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a woman hugging a man in a city",
+            "the main object on the image is a picture of a woman with a city in the background"
+        ],
+        "categories": {
+            "style": {
+                "a fantasy style book cover": 0.5562793612480164
+            },
+            "main_subject": {
+                "a woman on the cover": 0.23860186338424683,
+                "a castle on the cover": 0.21888697147369385
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.22677676379680634,
+                "contains fantasy architecture like castles": 0.7496544718742371
+            }
+        }
+    },
+    "352.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a woman with red hair and tattoos",
+            "the main object on the image is a picture of a woman with red hair"
+        ],
+        "categories": {
+            "style": {
+                "a fantasy style book cover": 0.9172383546829224
+            },
+            "main_subject": {
+                "a dragon on the cover": 0.4994345009326935,
+                "magical lights on the cover": 0.4821169376373291
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.9935564398765564
+            }
+        }
+    },
+    "353.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a red flask with a cross on it",
+            "the main object on the image is a red liquid with a cross on it"
+        ],
+        "categories": {
+            "style": {
+                "a romantic book cover": 0.43282973766326904
+            },
+            "main_subject": {
+                "a castle on the cover": 0.30935192108154297
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.1592274159193039,
+                "contains romantic elements like hearts or roses": 0.7646787166595459
+            }
+        }
+    },
+    "355.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a woman in a black dress holding a rose",
+            "the main object on the image is an image of a woman in a black dress with a rose in her hand"
+        ],
+        "categories": {
+            "style": {
+                "a fantasy style book cover": 0.7285608649253845,
+                "a romantic book cover": 0.1971087008714676
+            },
+            "main_subject": {
+                "a woman on the cover": 0.17891471087932587
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.16361941397190094,
+                "contains romantic elements like hearts or roses": 0.8157240152359009
+            }
+        }
+    },
+    "356.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring the eiffel tower and the eiffel tower",
+            "the main object on the image is a picture of a cross and roses"
+        ],
+        "categories": {
+            "style": {
+                "an illustrated book cover": 0.2043883502483368,
+                "a romantic book cover": 0.2019994556903839,
+                "a watercolor style book cover": 0.28358981013298035,
+                "a digital art style book cover": 0.16008208692073822
+            },
+            "specific_elements": {
+                "contains romantic elements like hearts or roses": 0.8088204264640808,
+                "contains fantasy architecture like castles": 0.16209425032138824
+            }
+        }
+    },
+    "358.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a woman with her back to the camera and the moon in the background",
+            "the main object on the image is an image of a woman ' s back"
+        ],
+        "categories": {
+            "style": {
+                "a fantasy style book cover": 0.2879827916622162,
+                "a romantic book cover": 0.5622299313545227
+            },
+            "main_subject": {
+                "a moon with stars on the cover": 0.202775239944458,
+                "stars on the cover": 0.2728129029273987
+            },
+            "specific_elements": {
+                "contains romantic elements like hearts or roses": 0.7807937860488892
+            }
+        }
+    },
+    "359.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a purple flower on a black background",
+            "the main object on the image is a purple flower"
+        ],
+        "categories": {
+            "style": {
+                "a fantasy style book cover": 0.28317388892173767,
+                "a romantic book cover": 0.6406007409095764
+            },
+            "main_subject": {
+                "a flower on the cover": 0.2797193229198456,
+                "a moon with flowers on the cover": 0.24912229180335999
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.20002560317516327,
+                "contains romantic elements like hearts or roses": 0.4479944407939911,
+                "contains fantasy architecture like castles": 0.2999814748764038
+            }
+        }
+    },
+    "3828.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a woman holding a sword in front of a blue background",
+            "the main object on the image is a picture of a woman holding a sword and standing in front of a"
+        ],
+        "categories": {
+            "style": {
+                "a fantasy style book cover": 0.4618223309516907,
+                "a digital art style book cover": 0.19213469326496124
+            },
+            "main_subject": {
+                "a sky and sea on the cover": 0.38715505599975586
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.8208326101303101
+            }
+        }
+    },
+    "3829.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a woman ' s face in the center of the cover of a book",
+            "the main object on the image is the cover of a book"
+        ],
+        "categories": {
+            "style": {
+                "a fantasy style book cover": 0.715937077999115
+            },
+            "main_subject": {
+                "a castle on the cover": 0.20788919925689697,
+                "a wolf on the cover": 0.23400194942951202,
+                "magical lights on the cover": 0.3357630968093872
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.5872815251350403,
+                "contains fantasy architecture like castles": 0.3224869966506958
+            }
+        }
+    },
+    "3830.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a bird with wings and the words devour the light",
+            "the main object on the image is the cover of devour the light"
+        ],
+        "categories": {
+            "style": {
+                "a fantasy style book cover": 0.7349583506584167
+            },
+            "main_subject": {
+                "magical lights on the cover": 0.7868014574050903
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.8271163105964661
+            }
+        }
+    },
+    "3831.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a green box with yellow flowers",
+            "the main object on the image is the cover of the book, the west wind"
+        ],
+        "categories": {
+            "style": {
+                "a fantasy style book cover": 0.8543491363525391
+            },
+            "main_subject": {
+                "a tree on the cover": 0.25092944502830505,
+                "a flower on the cover": 0.2915555536746979
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.28723883628845215,
+                "contains fantasy architecture like castles": 0.6712088584899902
+            }
+        }
+    },
+    "3832.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a pink and black book cover with a gold and black design",
+            "the main object on the image is a picture of a book with a pink cover"
+        ],
+        "categories": {
+            "style": {
+                "an illustrated book cover": 0.16157783567905426,
+                "a fantasy style book cover": 0.48559942841529846
+            },
+            "main_subject": {
+                "a castle on the cover": 0.3689050078392029,
+                "a crown on the cover": 0.35979408025741577
+            },
+            "specific_elements": {
+                "contains fantasy architecture like castles": 0.8512340188026428
+            }
+        }
+    },
+    "3833.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring an ornate design and a black background",
+            "the main object on the image is a black and white book cover"
+        ],
+        "categories": {
+            "style": {
+                "a photo realistic book cover": 0.16454863548278809,
+                "a fantasy style book cover": 0.5637255907058716
+            },
+            "main_subject": {
+                "magical lights on the cover": 0.2323385626077652
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.8454412221908569
+            }
+        }
+    },
+    "3834.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a silver heart with two crows and the words blood academy on it",
+            "the main object on the image is the cover of the book blood academy"
+        ],
+        "categories": {
+            "style": {
+                "a photo realistic book cover": 0.32056480646133423,
+                "a fantasy style book cover": 0.32787585258483887
+            },
+            "main_subject": {
+                "a castle on the cover": 0.3122093379497528,
+                "a heart on the cover": 0.22576600313186646
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.439374178647995,
+                "contains fantasy architecture like castles": 0.4153647720813751
+            }
+        }
+    },
+    "3835.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a cup of tea with a spoon sticking out of it",
+            "the main object on the image is a cup of tea with a spoon in it"
+        ],
+        "categories": {
+            "style": {
+                "an illustrated book cover": 0.28680717945098877,
+                "a fantasy style book cover": 0.3797476589679718
+            },
+            "main_subject": {
+                "a castle on the cover": 0.25939181447029114,
+                "magical lights on the cover": 0.3632182478904724
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.6047894358634949,
+                "contains fantasy architecture like castles": 0.15522031486034393
+            }
+        }
+    },
+    "3836.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a tower in the middle of a desert",
+            "the main object on the image is the cover of the book throne of glass"
+        ],
+        "categories": {
+            "style": {
+                "a fantasy style book cover": 0.8178455233573914
+            },
+            "main_subject": {
+                "a castle on the cover": 0.6787862181663513,
+                "a crown on the cover": 0.2398165464401245
+            },
+            "specific_elements": {
+                "contains fantasy architecture like castles": 0.9668228030204773
+            }
+        }
+    },
+    "3838.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring the title of the book glow of the everglame",
+            "the main object on the image is the cover of the book glow of the everglame"
+        ],
+        "categories": {
+            "style": {
+                "a fantasy style book cover": 0.9325847029685974
+            },
+            "main_subject": {
+                "magical lights on the cover": 0.43468090891838074
+            },
+            "specific_elements": {
+                "contains magical glowing effects": 0.7803937792778015,
+                "contains fantasy creatures like dragons or wolves": 0.1923987716436386
+            }
+        }
+    },
+    "3839.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a skull and roses",
+            "the main object on the image is an image of a skull and roses"
+        ],
+        "categories": {
+            "style": {
+                "a fantasy style book cover": 0.904333233833313
+            },
+            "main_subject": {
+                "magical lights on the cover": 0.7186322212219238
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.18486124277114868,
+                "contains romantic elements like hearts or roses": 0.5991069674491882
+            }
+        }
+    },
+    "384.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a woman wrapped in a pink blanket",
+            "the main object on the image is a picture of a woman in a pink dress"
+        ],
+        "categories": {
+            "style": {
+                "a photo realistic book cover": 0.5036082863807678,
+                "a romantic book cover": 0.19028601050376892
+            },
+            "main_subject": {
+                "a woman on the cover": 0.4909088909626007,
+                "a crown on the cover": 0.1958710104227066
+            },
+            "specific_elements": {
+                "contains romantic elements like hearts or roses": 0.25718027353286743,
+                "contains fantasy architecture like castles": 0.6147152185440063
+            }
+        }
+    },
+    "3840.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a woman dressed in a white dress",
+            "the main object on the image is the cover of the book black witch"
+        ],
+        "categories": {
+            "style": {
+                "a fantasy style book cover": 0.6212517619132996
+            },
+            "main_subject": {
+                "a woman on the cover": 0.37885794043540955
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.7851648926734924
+            }
+        }
+    },
+    "385.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a woman standing in a field",
+            "the main object on the image is an image of a woman standing in a field"
+        ],
+        "categories": {
+            "style": {
+                "a fantasy style book cover": 0.6367698311805725,
+                "a romantic book cover": 0.20279768109321594
+            },
+            "main_subject": {
+                "a castle on the cover": 0.5493806004524231
+            },
+            "specific_elements": {
+                "contains romantic elements like hearts or roses": 0.5601917505264282,
+                "contains fantasy architecture like castles": 0.29642578959465027
+            }
+        }
+    },
+    "387.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a wolf and a woman in the snow",
+            "the main object on the image is a picture of a wolf in the snow"
+        ],
+        "categories": {
+            "style": {
+                "a photo realistic book cover": 0.15242931246757507,
+                "a romantic book cover": 0.7725216746330261
+            },
+            "main_subject": {
+                "magical lights on the cover": 0.983909547328949
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.2801339328289032,
+                "contains romantic elements like hearts or roses": 0.662747323513031
+            }
+        }
+    },
+    "388.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a woman standing in front of a tree",
+            "the main object on the image is a woman standing in front of a tree"
+        ],
+        "categories": {
+            "style": {
+                "a fantasy style book cover": 0.6611749529838562,
+                "a romantic book cover": 0.21490360796451569
+            },
+            "main_subject": {
+                "a moon with a person on the cover": 0.24567747116088867,
+                "a moon with stars on the cover": 0.1615469604730606,
+                "a moon with flowers on the cover": 0.36400169134140015
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.6207683682441711,
+                "contains romantic elements like hearts or roses": 0.2923584580421448
+            }
+        }
+    },
+    "389.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a woman with golden hair",
+            "the main object on the image is a photo of a woman with red hair"
+        ],
+        "categories": {
+            "style": {
+                "a photo realistic book cover": 0.7927213311195374
+            },
+            "main_subject": {
+                "a woman on the cover": 0.20503264665603638
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.4469275176525116,
+                "contains romantic elements like hearts or roses": 0.16011859476566315,
+                "contains fantasy architecture like castles": 0.32578328251838684
+            }
+        }
+    },
+    "391.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a woman ' s face and the words half blood",
+            "the main object on the image is the cover of half blood"
+        ],
+        "categories": {
+            "style": {
+                "a fantasy style book cover": 0.8753069043159485
+            },
+            "main_subject": {
+                "a person with a sword on the cover": 0.15366804599761963
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.8676415085792542
+            }
+        }
+    },
+    "392.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a shirtless man in jeans and a cowboy hat",
+            "the main object on the image is an image of a man in jeans and a cowboy hat"
+        ],
+        "categories": {
+            "style": {
+                "a photo realistic book cover": 0.16826729476451874,
+                "a romantic book cover": 0.6594034433364868
+            },
+            "main_subject": {
+                "a person with a sword on the cover": 0.38397225737571716
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.2301827222108841,
+                "contains romantic elements like hearts or roses": 0.5882093906402588
+            }
+        }
+    },
+    "393.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a woman with long hair",
+            "the main object on the image is a picture of a woman with long hair"
+        ],
+        "categories": {
+            "style": {
+                "a photo realistic book cover": 0.31687822937965393,
+                "a fantasy style book cover": 0.295457661151886
+            },
+            "main_subject": {
+                "a woman on the cover": 0.15670494735240936,
+                "a castle on the cover": 0.28073808550834656
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.3771406412124634,
+                "contains fantasy architecture like castles": 0.5783531665802002
+            }
+        }
+    },
+    "394.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a woman flying in front of a castle",
+            "the main object on the image is the cover of a book"
+        ],
+        "categories": {
+            "style": {
+                "an illustrated book cover": 0.1646728217601776,
+                "a fantasy style book cover": 0.7079954743385315
+            },
+            "main_subject": {
+                "person with wings on the cover": 0.8046296238899231
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.31392422318458557,
+                "contains fantasy architecture like castles": 0.6230459809303284
+            }
+        }
+    },
+    "395.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a woman in a flowing black dress",
+            "the main object on the image is the cover of the book tear drop"
+        ],
+        "categories": {
+            "style": {
+                "a photo realistic book cover": 0.7892554402351379
+            },
+            "main_subject": {
+                "a crown on the cover": 0.38019371032714844
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.6265032887458801,
+                "contains romantic elements like hearts or roses": 0.28521493077278137
+            }
+        }
+    },
+    "396.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a silhouette of a woman with butterflies in her hair",
+            "the main object on the image is the cover of love in the time of global warming"
+        ],
+        "categories": {
+            "style": {
+                "a photo realistic book cover": 0.28006330132484436,
+                "a romantic book cover": 0.4591914117336273
+            },
+            "main_subject": {
+                "a heart on the cover": 0.27184373140335083
+            },
+            "specific_elements": {
+                "contains romantic elements like hearts or roses": 0.8315222859382629
+            }
+        }
+    },
+    "399.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a woman in a white dress",
+            "the main object on the image is an image of a woman in a white dress"
+        ],
+        "categories": {
+            "style": {
+                "a fantasy style book cover": 0.8373479843139648
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.9098147749900818
+            }
+        }
+    },
+    "400.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a woman ' s breasts and flowers",
+            "the main object on the image is a picture of a woman ' s breasts"
+        ],
+        "categories": {
+            "style": {
+                "a fantasy style book cover": 0.23819516599178314,
+                "a romantic book cover": 0.7002640962600708
+            },
+            "specific_elements": {
+                "contains romantic elements like hearts or roses": 0.8210395574569702
+            }
+        }
+    },
+    "905.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a raven flying over a fire",
+            "the main object on the image is the cover of the book, das gold der kraken"
+        ],
+        "categories": {
+            "style": {
+                "an illustrated book cover": 0.3269123435020447,
+                "a fantasy style book cover": 0.5226675868034363
+            },
+            "main_subject": {
+                "a dragon on the cover": 0.17880892753601074,
+                "stars on the cover": 0.1795310229063034
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.35950419306755066,
+                "contains fantasy architecture like castles": 0.5386965870857239
+            }
+        }
+    },
+    "906.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a woman with blue eyes and a toothbrush in front of her face",
+            "the main object on the image is a poster of a woman ' s face"
+        ],
+        "categories": {
+            "style": {
+                "a photo realistic book cover": 0.9058418273925781
+            },
+            "main_subject": {
+                "the back of a person on the cover": 0.1599181443452835
+            },
+            "specific_elements": {
+                "contains romantic elements like hearts or roses": 0.703233540058136
+            }
+        }
+    },
+    "907.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a tall building with a woman standing on top of it",
+            "the main object on the image is the cover of renegades, a novel by marissa meyer"
+        ],
+        "categories": {
+            "style": {
+                "a photo realistic book cover": 0.49263954162597656,
+                "a fantasy style book cover": 0.17168092727661133
+            },
+            "main_subject": {
+                "a building or architecture on the cover": 0.48333096504211426
+            },
+            "specific_elements": {
+                "contains fantasy architecture like castles": 0.9273163080215454
+            }
+        }
+    },
+    "908.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a winged wing on a green background",
+            "the main object on the image is the cover of the book wicked"
+        ],
+        "categories": {
+            "style": {
+                "a photo realistic book cover": 0.23002001643180847,
+                "a romantic book cover": 0.4928409159183502
+            },
+            "specific_elements": {
+                "contains romantic elements like hearts or roses": 0.47063878178596497,
+                "contains fantasy architecture like castles": 0.41137081384658813
+            }
+        }
+    },
+    "909.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring an image of a woman in a red dress",
+            "the main object on the image is the cover of a book"
+        ],
+        "categories": {
+            "style": {
+                "a fantasy style book cover": 0.7511121034622192
+            },
+            "main_subject": {
+                "a castle on the cover": 0.45673221349716187
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.15535758435726166,
+                "contains fantasy architecture like castles": 0.4359014928340912,
+                "contains magical jewelry or crowns": 0.23644468188285828
+            }
+        }
+    },
+    "910.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a woman in a white dress sitting on a beach in front of a starry sky",
+            "the main object on the image is a woman in a white dress"
+        ],
+        "categories": {
+            "style": {
+                "a photo realistic book cover": 0.3313950300216675,
+                "a fantasy style book cover": 0.33933085203170776
+            },
+            "main_subject": {
+                "a sky and sea on the cover": 0.36899667978286743
+            },
+            "specific_elements": {
+                "contains fantasy architecture like castles": 0.7231226563453674
+            }
+        }
+    },
+    "911.jpg": {
+        "blip_descriptions": [
+            "a romantic fantasy cover featuring a woman and a wolf",
+            "the main object on the image is a picture of a woman and a wolf"
+        ],
+        "categories": {
+            "style": {
+                "a fantasy style book cover": 0.775519847869873
+            },
+            "main_subject": {
+                "a wolf on the cover": 0.7059582471847534
+            },
+            "specific_elements": {
+                "contains fantasy creatures like dragons or wolves": 0.9668160080909729
+            }
+        }
+    }
+}
